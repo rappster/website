@@ -22,7 +22,8 @@ a {
 }
 
 a:hover, a:focus {
-  color: #fcbd20;
+  /* color: #fcbd20; */
+  color: #FE6E94;
 }
 
 hr {
